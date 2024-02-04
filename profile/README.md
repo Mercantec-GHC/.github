@@ -8,7 +8,9 @@ Pensum og generel information kan findes på [Notion](https://mercantec.notion.s
 
 ## Holdoversigt
 #### Se hvad eleverne på hvert hovedforløb hold har lavet
-------------------------------------------------------
-### [24Q2 Hovedforløb 1](https://github.com/Mercantec-GHC/24Q2H1)
+| År 	| Kvartal 	| Hovedforløb 	| Oversigt	|
+|----	|---------	|-------------	|------		  |
+| 24 	| 2. Kvartal|   H1          |  [24Q2H1](https://github.com/Mercantec-GHC/24Q2H1)    	|   
+| 23 	| 4. Kvartal|   H1          |  [23Q4H1](https://github.com/Mercantec-GHC/23Q4H1)  	|  
+|    	|         	|             	|      	    |  
 
-### [23Q3 Hovedforløb 1](https://github.com/Mercantec-GHC/23Q4H1)
