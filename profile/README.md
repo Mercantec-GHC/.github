@@ -2,7 +2,7 @@
 
 Dette er en fælles GitHub Organisation for alle elever, den indeholder alle projekter som I har lavet på jeres hovedforløb og grundforløb. Generelt bliver de holdt åbne (public), udover prøver. Det anbefales at holde dem åbne, for at vise virksomheder hvad I kan!
 
-Der er ekstra materiale til jeres hovedforløb på – [MAGS](https://github.com/MAGS-Template/) 
+Der er ekstra materiale til jeres hovedforløb på – [MAGS-Template/](https://github.com/MAGS-Template/) 
 
 Pensum og generel information kan findes på [Notion](https://mercantec.notion.site/Mercantec-MAGS-882a74628348419fa23af9a875215e4c?pvs=4)
 
