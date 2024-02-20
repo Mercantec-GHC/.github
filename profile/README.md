@@ -11,6 +11,7 @@ Pensum og generel information kan findes på [Notion](https://mercantec.notion.s
 | År 	| Kvartal 	| Hovedforløb 	| Oversigt	|
 |----	|---------	|-------------	|------		  |
 | 24 	| 2. Kvartal|   H1          |  [24Q2H1](https://github.com/Mercantec-GHC/24Q2H1)    	|   
+| 24	| 1. Kvartal|   H1 - EUX   	|  [24Q1H1](https://github.com/Mercantec-GHC/h1-projekt-techvendo)    	    | 
 | 23 	| 4. Kvartal|   H1          |  [23Q4H1](https://github.com/Mercantec-GHC/23Q4H1)  	|  
 |    	|         	|             	|      	    |  
 
