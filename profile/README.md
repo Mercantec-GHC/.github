@@ -4,7 +4,7 @@ Dette er en fælles GitHub Organisation for alle elever, den indeholder alle pro
 
 Der er ekstra materiale til jeres hovedforløb på – [MAGS-Template/](https://github.com/MAGS-Template/) 
 
-Pensum og generel information kan findes på [Notion](https://mercantec.notion.site/Mercantec-MAGS-882a74628348419fa23af9a875215e4c?pvs=4)
+Pensum og generel information kan findes på [Notion](https://mercantec.notion.site/9fb68009b21b47f28c759169ee734de7?v=e0125d9cf06646ac8317d5b8cb8eca8b&pvs=74)
 
 ## Holdoversigt
 #### Se hvad eleverne på hvert hovedforløb hold har lavet
